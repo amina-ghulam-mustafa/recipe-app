@@ -15,3 +15,4 @@ This project is a user interface design for a mobile recipe application develope
 
 
 Link for figma design: https://www.figma.com/design/JtzZ5h7lMJt5JqjyhxaCgS/Hci?node-id=0-1&p=f&t=D5q5W0gXmfvakmxB-0
+<img width="1322" height="817" alt="image" src="https://github.com/user-attachments/assets/2eb43d3b-511f-4931-a05c-6ca69012b737" />
